@@ -1,14 +1,23 @@
 [
   {
+    "name": "color",
+    "path": "/color",
+    "component": "/home/mencotton/ドキュメント/GitHub/149th-kaiseifes/pages/color.vue",
+    "chunkName": "pages/color",
+    "_name": "_7deb79d7"
+  },
+  {
     "name": "example",
     "path": "/example",
-    "component": "C:\\\\Users\\\\mencotton\\\\Documents\\\\GitHub\\\\149th-kaiseifes\\\\pages\\\\example.vue",
-    "chunkName": "pages/example"
+    "component": "/home/mencotton/ドキュメント/GitHub/149th-kaiseifes/pages/example.vue",
+    "chunkName": "pages/example",
+    "_name": "_4190195e"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\mencotton\\\\Documents\\\\GitHub\\\\149th-kaiseifes\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "/home/mencotton/ドキュメント/GitHub/149th-kaiseifes/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5091b874"
   }
 ]

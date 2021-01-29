@@ -250,6 +250,17 @@ export default {
             'https://youtube.com/playlist?list=PLg6BuDxA3WsuO_bTxnDefS_4daw3D-uF7',
           contentUrlText: 'YouTube',
         },
+        {
+          id: 8.5,
+          name: 'UPDATE',
+          place: 'YouTube',
+          type: YOUTUBE | CLASS,
+          description:
+            '問題に挑戦するのもストーリーのみを見るのも自由です。皆さんそれぞれの楽しみ方で私たちの参団を満喫してほしいと思います。',
+          contentUrl:
+            'https://youtube.com/playlist?list=PLg6BuDxA3WsuO_bTxnDefS_4daw3D-uF7',
+          contentUrlText: 'YouTube',
+        },
 
         {
           id: 9,
@@ -394,6 +405,17 @@ export default {
           contentUrl2:
             'https://youtube.com/playlist?list=PLg6BuDxA3WstLWh5oYhFyOgvI2SuMFv0T',
           contentUrlText2: 'YouTube',
+        },
+        {
+          id: 20.5,
+          name: '熱闘！俳句甲子園',
+          place: 'YouTube',
+          type: YOUTUBE,
+          description:
+            '俳句甲子園の全国大会で叶わなかった、強豪校たちの熱い試合を見ることができます。',
+          contentUrl:
+            'https://youtube.com/playlist?list=PLg6BuDxA3Wsv5JAJNpQHgDFP1HdhNZzx1',
+          contentUrlText: 'YouTube',
         },
 
         {
